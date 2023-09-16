@@ -2,6 +2,9 @@ class Display
 {
 	public static void main(String args[])   
 { 
-	System.ou.println("Hello Good morning ")
+	System.out.println("Hello Good morning ")
+        System.out.println("Hello Good Afternoon ")
+	System.out.println("Hello Good Afternoon ")
+        System.out.println("Hello Good Afternoon ") 
 }
 }

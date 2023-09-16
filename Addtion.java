@@ -14,6 +14,8 @@ res = n1 - n2;
 System.out.println("The Sub of numbers is: "+res);
 res = n1 * n2;
 System.out.println("The Sub of numbers is: "+res);
+res = n1 / n2;
+System.out.println("The Sub of numbers is: "+res);
 
 }
 }
